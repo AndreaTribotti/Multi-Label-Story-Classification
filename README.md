@@ -73,3 +73,9 @@ pre-trained weights are loaded from Google Drive.
 Click the "Open in Colab" badge at the top of this README.
 Run the cells sequentially to load the weights and reproduce the reported results.
 
+---
+
+## 📖 Detailed Report
+For a full description of the methods, experiments, and results, see the full report: [*report_adaptive_step_control*](https://github.com/AndreaTribotti/Adaptive-step-control-for-RK-methods/blob/main/report_adaptive_step_control.pdf)  
+
+
