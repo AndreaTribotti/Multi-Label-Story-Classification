@@ -76,6 +76,6 @@ Run the cells sequentially to load the weights and reproduce the reported result
 ---
 
 ## 📖 Detailed Report
-For a full description of the methods, experiments, and results, see the full report: [*report_adaptive_step_control*](https://github.com/AndreaTribotti/Adaptive-step-control-for-RK-methods/blob/main/report_adaptive_step_control.pdf)  
+For a full description of the methods, experiments, and results, see the full report: [*Report_Multi_Label_Classification*](Report_Multi_Label_Classification.pdf)  
 
 
