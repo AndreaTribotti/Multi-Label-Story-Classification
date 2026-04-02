@@ -75,7 +75,7 @@ Run the cells sequentially to load the weights and reproduce the reported result
 
 ---
 
-## 📖 Detailed Report
+## 📒 Detailed Report
 For a full description of the models, experiments, and results, see the full report: [*Report_Multi_Label_Classification*](Report_Multi_Label_Classification.pdf)  
 
 
