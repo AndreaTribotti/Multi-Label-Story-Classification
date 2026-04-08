@@ -1,6 +1,6 @@
 # Multi-Label Story Classification 📚
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaTribotti/project/blob/main/Multi_Label_Story_Classification_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndreaTribotti/project/blob/main/Analysis_Multi_Label_Story_Classification.ipynb)
 
 ## 👥 Authors
 * **Andrea Tribotti**
